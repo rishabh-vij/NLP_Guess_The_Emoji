@@ -25,4 +25,4 @@ Install missing dependencies using pip Install
 
 ## Usage
 
-type juptyer notebook into terminal and a browser window will pop up. Click on demo.ipynb. You can iteratively compile each block of code to see the output results.
+type juptyer notebook into terminal and a browser window will pop up. Click on Guess_the_emoji.ipynb. You can iteratively compile each block of code by pressing alt+enter to see the output results.
